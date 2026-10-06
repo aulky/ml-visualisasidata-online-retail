@@ -158,3 +158,14 @@ Sebagai bentuk pertanggungjawaban akademik, berikut adalah langkah verifikasi ya
    Rekomendasi strategis (seperti penyiapan stok Q4 sejak bulan Agustus untuk mengantisipasi lonjakan omset 2x lipat dan strategi konversi *Guest Checkout*) merupakan hasil sintesis nalar mahasiswa atas konteks industri retail cinderamata daring.
 
 ---
+
+## 6. Bukti Tangkapan Layar Interaksi AI (*Screenshot*)
+
+Berikut adalah bukti tangkapan layar (*screenshot*) interaksi bersama asisten AI selama proses pengerjaan penugasan:
+
+<p align="center">
+  <img src="Muhammad Aulia Muzzaki Nugraha_2311102051_ScreenshotAI.png" alt="Bukti Tangkapan Layar AI" width="850"/>
+</p>
+
+---
+

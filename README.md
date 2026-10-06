@@ -17,6 +17,7 @@ Proyek analisis data eksploratif untuk memenuhi **Tugas Sub-CLO-12-1-1: Visualis
 ```text
 ├── Muhammad Aulia Muzzaki Nugraha_2311102051_TugasEDA.ipynb  # Notebook utama (analisis, grafik & interpretasi)
 ├── DEKLARASI_PENGGUNAAN_AI.md                                 # Deklarasi resmi etika AI & transkrip prompting
+├── Muhammad Aulia Muzzaki Nugraha_2311102051_ScreenshotAI.png # Bukti tangkapan layar penggunaan AI
 ├── data/
 │   └── online_retail.csv                                     # Dataset transaksi UCI Online Retail
 ├── Tugas Sub-CLO-12-1-1 - Visualisasi Data.pdf               # Panduan resmi penugasan
